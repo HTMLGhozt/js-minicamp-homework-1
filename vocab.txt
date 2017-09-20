@@ -1,0 +1,7 @@
+Variables are a box that holds data.
+Strings are data that could otherwise be sentances, words or letters.
+Functions are code blocks that run a particular task when called.
+	Arguments are the values that have been assigned to the function.
+	Return is the answer of the function that was called.
+if statements run if the question assigned to it returns correct.
+Booleans are yes or no values.
